@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Tours</title>
+</head>
+
+<body>
+
+  <header>
+
+    <a href="index.html"><h1>Navan Tours</h1></a>
+  
+  </header>
+
+  <div class="containerform">
+    <form onsubmit="sendEmail(); reset(); return false;">
+        <h3>Sign Up Now</h3>
+        <input type="text" id="name" placeholder="Your Name" required>
+        <input type="email" id="email" placeholder="Your Email" required>
+        <input type="mobile" id="mobile" placeholder="Mobile No.">
+        <textarea id="message" rows="3" placeholder="Questions and Queries">
+        </textarea>
+        <button type="submit">Join up!</button>
+    </form>
+  </div>
+
+<script src="https://smtpjs.com/v3/smtp.js"></script>
+<script function sendEmail()>
+    function sendEmail(){
+        Email.send({
+            Host : "smtp.elasticemail.com",
+            Username : "tomcollins2110@gmail.com",
+            Password : "Topgear001",
+            To : 'tomcollins2110@gmail.com',
+            From : document.getElementById("email").value,
+            Subject : "New Contact Form Enquiry",
+            Body : "And this is the body"
+        }).then(
+        message => alert(message)
+        );
+    }
+</script>
+
+</body>
+
+<footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 col-md-12 mb-4">
+          <h5 class="mb-3" style="letter-spacing: 2px; color: #818963;">Visit our Socials:</h5>
+  
+        </div>
+        <div class="col-lg-3 col-md-6 mb-4">
+          <ul class="list-unstyled mb-0">
+            <li class="mb-1">
+              <a href="#!" style="color: #000a99;"><h5>Book a tour</h5></a>
+            </li>
+            <li>
+              <a href="#!" style="color: #000a99;"><h5>Tour Info</h5></a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-lg-3 col-md-6 mb-4">
+          <h5 class="mb-1" style="letter-spacing: 2px; color: #000a99;">Tour Times</h5>
+          <table class="table" style="color: #4f4f4f; border-color: #666;">
+            <tbody>
+              <tr>
+                <td>Mon - Fri:</td>
+                <td>8am - 9pm</td>
+              </tr>
+              <tr>
+                <td>Sat - Sun:</td>
+                <td>8am - 1am</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div class="text-center" style="background-color: rgba(0, 0, 0, 0.2);">
+      © 2023 Copyright:
+      <a class="text-dark" href="/index.html">Navan Tours.com</a>
+    </div>
+  </footer>
+  
+  </html>
