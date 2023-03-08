@@ -8,6 +8,7 @@ book a tour that promises to be a historical adventure.
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
+![bridge1](https://user-images.githubusercontent.com/104827144/223859539-679de5f7-39f4-41c8-a4f5-fb9f8e914e4e.jpeg)
 
 <img src="/assets/images/bridge.jpeg" alt="Alt text" title="Optional title">
 
