@@ -8,8 +8,6 @@ book a tour that promises to be a historical adventure.
 
 ![bridge1](https://user-images.githubusercontent.com/104827144/223859539-679de5f7-39f4-41c8-a4f5-fb9f8e914e4e.jpeg)
 
-<img src="/assets/images/bridge.jpeg" alt="Alt text" title="Optional title">
-
 ## Features 
 
 The site has multiple pages that are inline with user experience requirements. The Tour Info and Sign Up pages open in new tabs at the appropriate times so
