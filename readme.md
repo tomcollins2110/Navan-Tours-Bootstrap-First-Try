@@ -5,16 +5,14 @@ Navan Tours is a bright inviting site that presents the user with a mobile first
 The site mixes features of bootstrap and css with the basic html code layer to build a structured well layed out site that invites users to 
 book a tour that promises to be a historical adventure.
 
-
-![bridge1](https://user-images.githubusercontent.com/104827144/223859539-679de5f7-39f4-41c8-a4f5-fb9f8e914e4e.jpeg)
+![homepage](https://user-images.githubusercontent.com/104827144/224083314-7bd13c9b-207d-4f5b-8840-c4b8bd657092.jpg)
 
 ## Features 
 
-The site has multiple pages that are inline with user experience requirements. The Tour Info and Sign Up pages open in new tabs at the appropriate times so
+The site has pages that are inline with user experience requirements. The Sign Up page opens in new a tab at the appropriate times so
 as to guide to user and hold a stable browsing session with information in one tab and sign up form in the other. 
 
-The site features a google maps segment and
-sends a customers sign up request to the site owners email. The site is fully responsive and mobile first design.
+The site features a sign up form that sends a customers sign up request to the site owners email. The site is fully responsive and mobile first design.
 
 ### Features
 
@@ -25,42 +23,28 @@ sends a customers sign up request to the site owners email. The site is fully re
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - At the very top there is a fully responsive menu.  
 
+- __Card Section__
 
+  - There is an inviting card feature which invites the user to get a taste of what is on offer.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![cardd](https://user-images.githubusercontent.com/104827144/224084571-b1d35c0c-065b-45d5-b81d-cf2645ec2c56.jpg)
 
-- __Club Ethos Section__
-
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-- __The Footer__ - __The Footer__ - __The Footer__ - __The Footer__ - __The Footer__ - __The Footer__ - __The Footer__ - __The Footer__ - __The Footer__
-
-
-
+- __The Footer__ 
+ 
+  - Like any site nowadays there is a footer which fits to the required view port and is of course mobile 1st design.
 
 ## Testing 
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator]
+  - The html passes the code test.
  
  
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator]
+  - No errors were found when testing most 
 
 ### Unfixed Bugs
 
