@@ -5,12 +5,12 @@ Navan Tours is a bright inviting site that presents the user with a mobile first
 The site mixes features of bootstrap and css with the basic html code layer to build a structured well layed out site that invites users to 
 book a tour that promises to be a historical adventure.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
-## Features 
 ![bridge1](https://user-images.githubusercontent.com/104827144/223859539-679de5f7-39f4-41c8-a4f5-fb9f8e914e4e.jpeg)
 
 <img src="/assets/images/bridge.jpeg" alt="Alt text" title="Optional title">
+
+## Features 
 
 The site has multiple pages that are inline with user experience requirements. The Tour Info and Sign Up pages open in new tabs at the appropriate times so
 as to guide to user and hold a stable browsing session with information in one tab and sign up form in the other. The site features a google maps segment and
