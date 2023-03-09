@@ -11,22 +11,24 @@ book a tour that promises to be a historical adventure.
 ## Features 
 
 The site has multiple pages that are inline with user experience requirements. The Tour Info and Sign Up pages open in new tabs at the appropriate times so
-as to guide to user and hold a stable browsing session with information in one tab and sign up form in the other. The site features a google maps segment and
+as to guide to user and hold a stable browsing session with information in one tab and sign up form in the other. 
+
+The site features a google maps segment and
 sends a customers sign up request to the site owners email. The site is fully responsive and mobile first design.
 
-### Existing Features
+### Features
+
+- __The landing page__
+
+  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
+  - This section introduces the user to Love Running with an eye catching animation to grab their attention
 
 - __Navigation Bar__
 
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
-- __The landing page image__
-
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
@@ -37,7 +39,7 @@ sends a customers sign up request to the site owners email. The site is fully re
 
 - __The Footer__ - __The Footer__ - __The Footer__ - __The Footer__ - __The Footer__ - __The Footer__ - __The Footer__ - __The Footer__ - __The Footer__
 
-![space](https://user-images.githubusercontent.com/104827144/223859637-fbcad00a-4926-4b22-8e0d-57275a3a0b88.jpg)
+
 
 
 ## Testing 
